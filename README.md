@@ -18,6 +18,8 @@ Datoram ir jābūt ar norādītajām komponentēm (vai labākām, sliktākas nev
 ## Projekta darba uzdevums
 Projekta galvenais uzdevums ir izveidot programmu, kas salīdzina datoru komponenšu cenas interneta veikalos [1a.lv](https://1a.lv), [220.lv](https://220.lv) un [dateks.lv](https://dateks.lv) pēc dotajām datoru komponentēm. Pēc tam šī programma nosūta ēpasta ziņojumu projekta autoram ar to kurā interneta veikalā ir izdevīgāk uzbūvēt datoru, kā arī kuros interneta veikalos noteiktas datoru komponentes ir izdevīgākas un cik kopā izmaksā uzbūvēt datoru no izdevīgākajiem piedāvājumiem (dažādos interneta veikalos). Projekta mērķis ir atbrīvot laiku projekta autora dzīvē meklējot datora komponenšu cenas, kā arī mērķis ir atvieglot visus apreiķinus un sameklēt izdevīgākos piedāvājumus.
 ## Projekta darbā izmantotās bibliotēkas
-1. Selenium:
-2. Time:
-3. Smtplib un email(pakete):
+1. Selenium: šī bibliotēka tiek izmantota lai automatizētu pārlūkprogrammu, šajā projekta darbā tā tiek izmantota, lai nolasītu doto datoru komponenšu cenas un nosaukumus no interneta veikaliem.
+2. Time: šī bibliotēka tiek izmantota projekta darbā, lai nodrošinātu laika aiztures, piemēram lapas ielādēšanos.
+3. Smtplib un email(pakete): šī bibliotēka un pakete tiek izmantota, lai nosūtītu ēpastā ziņojumu ar to kurā interneta veikalā ir izdevīgāk uzbūvēt datoru, kā arī kuros interneta veikalos noteiktas datoru komponentes ir izdevīgākas un cik kopā izmaksā uzbūvēt datoru no izdevīgākajiem piedāvājumiem (dažādos interneta veikalos).
+## Projekta darbā izmantotās metodes un koda daļas
+1. Selenium piesaiste
