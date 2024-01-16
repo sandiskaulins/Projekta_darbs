@@ -252,8 +252,8 @@ message_content += 'Ja pērk atsevišķos veikalos, tad cena kopā ir ' + str(ro
 msg.set_content(message_content)
 
 msg['Subject'] = 'Datora komponenšu cenas'
-msg['From'] = "sandisthegamer@gmail.com"
-msg['To'] = "sandisthegamer@gmail.com"
+msg['From'] = "" #pievienojiet savu ēpastu
+msg['To'] = "" #pievienojiet savu ēpastu
 
 my_server.send_message(msg)
 print('Mail Sent')
