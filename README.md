@@ -41,6 +41,9 @@ Projekta galvenais uzdevums ir izveidot programmu, kas salīdzina datoru kompone
    - Veic salīdzināšanu kuros interneta veikalos noteiktas datoru komponentes ir izdevīgākas un cik kopā izmaksā uzbūvēt datoru no izdevīgākajiem piedāvājumiem (dažādos interneta veikalos).
    - Rezūltātu saglabāšana masīvos.
 6. Ēpasta nosūtīšana:
-   - Smtplib un email piesaistīšana.
+   - Smtplib un email piesaistīšana, kā arī user_login.py piesaiste.
    - Ēpasta ziņojuma izveide.
    - Ēpasta nosūtišana.
+## Programmas izpilde
+Programmas izpildi var apskatīties [šeit](https://failiem.lv/u/q69ngq3kef).
+Lai izpildītos programma, jums ir jaievada savs ēpasts, koda daļās msg['From'] = "" un msg['To'] = "", kā arī jums ir jāpievieno savs ēpats un parole failā user_login.py
