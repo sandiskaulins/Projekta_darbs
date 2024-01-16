@@ -24,23 +24,23 @@ Projekta galvenais uzdevums ir izveidot programmu, kas salīdzina datoru kompone
 ## Projekta darbā izmantotās metodes un koda daļas
 1. Selenium bibliotēkas piesaistīšana.
 2. get_component_price_1a:
-   -Veic meklēšanu pēc konkrētām komponentēm 1a.lv.
-   -Iegūst komponentes cenas un nosaukumus.
-   -Saglabā informāciju masīvos.
+      -Veic meklēšanu pēc konkrētām komponentēm 1a.lv.
+      -Iegūst komponentes cenas un nosaukumus.
+      -Saglabā informāciju masīvos.
 3. get_component_price_220:
-   -Veic meklēšanu pēc konkrētām komponentēm 220.lv.
-   -Iegūst komponentes cenas un nosaukumus.
-   -Saglabā informāciju masīvos.
+      -Veic meklēšanu pēc konkrētām komponentēm 220.lv.
+      -Iegūst komponentes cenas un nosaukumus.
+      -Saglabā informāciju masīvos.
 4. get_component_price_dateks:
-   -Veic meklēšanu pēc konkrētām komponentēm dateks.lv.
-   -Iegūst komponentes cenas un nosaukumus.
-   -Saglabā informāciju masīvos.
+      -Veic meklēšanu pēc konkrētām komponentēm dateks.lv.
+      -Iegūst komponentes cenas un nosaukumus.
+      -Saglabā informāciju masīvos.
 5. Informācijas salīdzināšana:
-   -Veic salīdzināšanu kurā interneta veikalā ir izdevīgāk uzbūvēt datoru.
-   -Rezūltātu saglabāšana.
-   -Veic salīdzināšanu kuros interneta veikalos noteiktas datoru komponentes ir izdevīgākas un cik kopā izmaksā uzbūvēt datoru no izdevīgākajiem piedāvājumiem (dažādos interneta veikalos).
-   -Rezūltātu saglabāšana masīvos
+      -Veic salīdzināšanu kurā interneta veikalā ir izdevīgāk uzbūvēt datoru.
+      -Rezūltātu saglabāšana.
+      -Veic salīdzināšanu kuros interneta veikalos noteiktas datoru komponentes ir izdevīgākas un cik kopā izmaksā uzbūvēt datoru no izdevīgākajiem piedāvājumiem (dažādos interneta veikalos).
+      -Rezūltātu saglabāšana masīvos
 6. Ēpasta nosūtīšana:
-   -Smtplib un email piesaistīšana
-   -Ēpasta ziņojuma izveide
-   -Ēpasta nosūtišana
+      -Smtplib un email piesaistīšana
+      -Ēpasta ziņojuma izveide
+      -Ēpasta nosūtišana
