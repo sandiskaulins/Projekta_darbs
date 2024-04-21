@@ -45,5 +45,5 @@ Projekta galvenais uzdevums ir izveidot programmu, kas salīdzina datoru kompone
    - Ēpasta ziņojuma izveide.
    - Ēpasta nosūtišana.
 ## Programmas izpilde
-Programmas izpildi var apskatīties [šeit](https://failiem.lv/u/q69ngq3kef).
+Programmas izpildi var apskatīties [šeit](https://failiem.lv/u/95vbm99cv5).
 Lai izpildītos programma, jums ir jaievada savs ēpasts, koda daļās msg['From'] = "" un msg['To'] = "", kā arī jums ir jāpievieno savs ēpats un parole failā user_login.py
